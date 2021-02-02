@@ -1,0 +1,8 @@
+# Book Store - Cartfile
+
+#Alamofire
+github "Alamofire/Alamofire" == 5.2
+
+#AlamofireImage
+github "Alamofire/AlamofireImage" ~> 4.1
+
